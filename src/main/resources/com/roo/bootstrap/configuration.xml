@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<springjs>
+		<properties>
+			<spring.js.version>2.3.1.RELEASE</spring.js.version>
+		</properties>
+		<dependencies>
+			<dependency>
+				<groupId>org.springframework.webflow</groupId>
+				<artifactId>spring-js-resources</artifactId>
+				<version>${spring.js.version}</version>
+			</dependency>
+		</dependencies>
+	</springjs>
+</configuration>

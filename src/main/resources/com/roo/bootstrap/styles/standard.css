@@ -1,0 +1,15 @@
+/* Tables */
+.table td.utilbox{
+	width: 32px;
+	padding: 0;
+}
+.table td.utilbox form{
+	margin: 0;
+}
+/* Dijit Forms*/
+.tundra .dijitInputContainer INPUT, .tundra .dijitTextBox {
+    height: 25px;
+}
+.tundra .dijitValidationIcon {
+    margin: 3px;
+}
