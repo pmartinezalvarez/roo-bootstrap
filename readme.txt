@@ -1,1 +1,1 @@
-Welcome to my addon!
+This is a Spring ROO Plugin fon include Twitter Bootstrap Dojo Implementation provided by @xsokev (http://dojobootstrap.com) on your ROO Projects.
