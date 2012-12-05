@@ -1,4 +1,4 @@
-This is a Spring ROO Plugin fon include Twitter Bootstrap Dojo Implementation provided by @xsokev (http://dojobootstrap.com) on your ROO Projects.
+This is a Spring ROO Plugin for include Twitter Bootstrap Dojo Implementation provided by @xsokev (http://dojobootstrap.com) in your ROO Projects.
 
 To get it running download the maven project and package it to get com.roo.bootstrap-0.1.0.BUILD-SNAPSHOT.jar artifact.
 
