@@ -10,7 +10,7 @@ Then you can use it in a Spring MVC web project using the command:
 
 web mvc install bootstrap
 
-This is a sample ROO script that build a demo application:
+This is a sample ROO script that builds a demo application:
 
 project --topLevelPackage com.roo.bootstrap.demo --projectName roo-bootstrap-demo --java 6 --packaging JAR
 persistence setup --database HYPERSONIC_PERSISTENT --provider HIBERNATE 
